@@ -1,5 +1,5 @@
 import React from "react";
-import { GiHamburgerMenu, GiSellCard } from "react-icons/gi";
+import { GiHamburgerMenu } from "react-icons/gi";
 import { BsSearch } from "react-icons/bs";
 import { FaShoppingCart } from "react-icons/fa";
 import { CgProfile } from "react-icons/cg";

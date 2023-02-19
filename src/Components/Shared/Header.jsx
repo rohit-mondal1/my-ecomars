@@ -80,7 +80,7 @@ const Header = () => {
                 LogIn
                 <IoIosArrowDropdown className="text-2xl" />
               </Link>
-              <ul className="p-2 bg-blue-500 bg-opacity-30 text-black rounded-non ">
+              <ul className="p-2 z-50 bg-blue-500 bg-opacity-30 text-black rounded-non ">
                 {secendmanue}
                 <li>
                   <Link to="/" className="font-semibold">

@@ -27,17 +27,17 @@ const Header = () => {
   const secendmanue = (
     <>
       <li className="font-semibold">
-        <Link to="/">
+        <Link to="/Profile">
           <CgProfile /> Profile
         </Link>
       </li>
       <li className="font-semibold">
-        <Link to="/">
+        <Link to="/wishlist">
           <FaShoppingCart /> wishlist
         </Link>
       </li>
       <li className="font-semibold">
-        <Link to="/">
+        <Link to="/My-Order">
           <ImBoxAdd /> My Order
         </Link>
       </li>

@@ -5,8 +5,11 @@ import Header from "../Components/Shared/Header";
 
 const MainLayout = () => {
   return (
-    <div >
+    <div className="relative">
+      <div className="sticky top-0 z-50 ">
+
       <Header />
+      </div>
 
       <div className="min-h-screen">
         <Outlet></Outlet>

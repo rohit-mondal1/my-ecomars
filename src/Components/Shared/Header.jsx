@@ -59,7 +59,7 @@ const Header = () => {
 
 
   return (
-    <div className="bg-blue-600 bg-opacity-70 pb-4">
+    <div className="bg-blue-600 bg-opacity-70 pb-4  ">
       <div className="navbar  text-white px-4">
         <div className="navbar-start">
           <Link to="/" className=" normal-case text-xl">
